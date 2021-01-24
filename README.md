@@ -1,4 +1,4 @@
-### Hello, I'm Pulkit Handa! 👋
+(https://imgur.com/t2CX7nb)
 
 - 🔭 I’m currently working on my Discord bot
 - 🌱 I’m currently learning Python and Discord.js
