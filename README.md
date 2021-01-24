@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/t2CX7nb.gif">
+<img src="https://i.imgur.com/t2CX7nb.gif" width="1700">
 
 - 🔭 I’m currently working on my Discord bot
 - 🌱 I’m currently learning Python and Discord.js
