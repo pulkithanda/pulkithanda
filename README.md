@@ -5,7 +5,7 @@
 
 Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="code.gif" width="400" height="250" />
+ <img align="right" alt="GIF" src="Assets/code.gif" width="400" height="250" />
   
 **Talking about Personal Stuffs:**
 
@@ -23,11 +23,11 @@ Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 fro
  ### Languages and Tools:
  
 <p align="center">
-  <img src="https://i.imgur.com/VSYTi5D.gif" width="70">
-  <img src="https://i.imgur.com/hZkLeaO.gif" width="70">
-  <img src="js.gif" width="70">
+  <img src="Assets/html.gif" width="70">
+  <img src="Assets/css.gif" width="70">
+  <img src="Assets/js.webp" width="70">
   <img src="https://i.imgur.com/v9MYVwQ.gif" width="130">
-  <img src="https://i.imgur.com/TcjuxYQ.gif" width="70">
-  <img src="github.gif" width="70">
-  <img src="vscode.gif" width="70">
+  <img src="Assets/bootstrap.gif" width="70">
+  <img src="Assets/github.webp" width="70">
+  <img src="Assets/vscode.webp" width="70">
 </p>
