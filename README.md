@@ -25,12 +25,6 @@ Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 fro
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulkitchamp&show_icons=true&theme=gotham" />
 </details>
 
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitchamp&layout=compact" />
-</details>
-
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
