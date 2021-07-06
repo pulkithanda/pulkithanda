@@ -20,23 +20,6 @@ Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 fro
 |--|--|--|--|--|
 
 <details>
-  <summary>🌟 My GitHub Stats</summary>
-  <br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pulkitchamp&show_icons=true&theme=gotham" />
-</details>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   2 hrs 2 mins    █████████████▓░░░░░░░░░░░   34.35 % 
-HTML         2 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   25.48 % 
-CSS          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Python       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Discord.js   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-```
-<!--END_SECTION:waka-->
-
-<details>
 <summary>Favorite Tech and Tools</summary>
 
 > Tools, languages, and other things that I like to work with.
