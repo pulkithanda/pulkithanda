@@ -23,55 +23,20 @@ Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 fro
 <summary>Favorite Tech and Tools</summary>
 
 > Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="Assets/html.gif" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/css.gif" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/vscode.webp" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/python.gif" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/git.gif" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/js.webp" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.paceit.co.uk/wp-content/uploads/2019/08/node-js-logo.jpg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/bootstrap.gif" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/github.webp" width="48" height="48" alt="Github" />
-      </a>
-      <br>Github
-    </td>
-  </tr>
-</table>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Css3" src="https://img.shields.io/badge/-CSS3-0099CC?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffd500?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-808080?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0078d7?style=flat-square&logo=vscode&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-333?style=flat-square&logo=github&logoColor=white" />
+  
+  
+</p>
 </details>
 
