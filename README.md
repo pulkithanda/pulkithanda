@@ -5,7 +5,7 @@
 
 Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="370" height="250" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="350" height="250" />
   
 **Talking about Personal Stuffs:**
 
