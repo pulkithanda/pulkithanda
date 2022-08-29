@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/t2CX7nb.gif" width="1000">
+<img src="https://i.imgur.com/t2CX7nb.gif" width="60%">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pulkitchamp.pulkitchamp) 
 ![Profile views](https://gpvc.arturio.dev/Pulkitchamp?v=3)
